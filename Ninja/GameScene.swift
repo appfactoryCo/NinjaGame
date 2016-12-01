@@ -282,16 +282,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
             
         }
    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+     
     
     
 }
